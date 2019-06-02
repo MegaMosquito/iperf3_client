@@ -2,7 +2,6 @@
 # Periodic iperf3 client, and REST API for access to results
 #
 # Written by Glen Darling, December 2018.
-# Copyright 2018, Glen Darling; all rights reserved.
 #
 
 from flask import Flask
